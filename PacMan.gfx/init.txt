@@ -1,2 +1,0 @@
-every assets and camera view capturing in game
-image buffered
