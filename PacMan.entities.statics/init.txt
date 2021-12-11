@@ -1,0 +1,1 @@
+Counting score and show high score krub
